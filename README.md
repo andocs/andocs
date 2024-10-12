@@ -1,7 +1,5 @@
 ![Header](./github-header-image.png)
-
 ![Profile views](https://komarev.com/ghpvc/?username=andocs&label=Profile%20views&color=0e75b6&style=flat)
-
 <div id="toc">
   <ul align="left" style="list-style: none">
     <summary>
@@ -12,8 +10,8 @@
   </ul>
 </div>
 
-**<h3 align="center">Connect with me:</h3>** 
-<p align="center"><a href="mailto:docotkat@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/andocs" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/docotkat" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.facebook.com/docotkat" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+**<h3 align="left">Connect with me:</h3>** 
+<p align="left"><a href="mailto:docotkat@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/andocs" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/docotkat" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.facebook.com/docotkat" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
  **<h3 align="left">⚡ I'm a 22-year-old Freelance Developer for The Path, with a burning passion for development and a mission to build reliable and scalable solutions.</h3>**
 
@@ -22,7 +20,7 @@
 - 💼 I'm currently working on: **💻 Developing a new budget tracking app using React and Node.js**
 - 🌱 I'm currently learning: **📚 React 18.3.0**
 - 💬 Ask me about: **💡 JavaScript, React, Node.js, MongoDB, and RESTful APIs**
-- ⚡ Fun fact: **💩 I once debugged a issue while "doing my business".**
+- ⚡ Fun fact: **💩 I once debugged a issue while "doing my business"**
 - 📂 Portfolio: **<a href="https://kdot-portfolio.vercel.app/" target="_blank">Kenneth Portfolio</a>**
 
  **<h3 align="left">Skills</h3>**
