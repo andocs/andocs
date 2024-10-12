@@ -22,7 +22,7 @@
 - 💼 I'm currently working on: **💻 Developing a new budget tracking app using React and Node.js**
 - 🌱 I'm currently learning: **📚 React 18.3.0**
 - 💬 Ask me about: **💡 JavaScript, React, Node.js, MongoDB, and RESTful APIs**
-- ⚡ Fun fact: **🎢 I once debugged a issue while "doing my business".**
+- ⚡ Fun fact: **💩 I once debugged a issue while "doing my business".**
 - 📂 Portfolio: **<a href="https://kdot-portfolio.vercel.app/" target="_blank">Kenneth Portfolio</a>**
 
  **<h3 align="left">Skills</h3>**
